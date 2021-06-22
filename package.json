@@ -1,7 +1,7 @@
 {
-  "name": "random-messagesdblisle",
+  "name": "random-msdblisle",
   "version": "1.0.0",
-  "description": "",
+  "description": "A package made for random message generation",
   "main": "\u001b[A\u001b[Bsrc/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,11 +14,15 @@
   "author": "David Belisle <david1alberto@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deivagt/my_npm_random_messages.git"
+    "url": "git+https://github.com/deivagt/my_npm_random_messages.git"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/deivagt/my_npm_random_messages/issues"
+  },
+  "homepage": "https://github.com/deivagt/my_npm_random_messages#readme"
 }
