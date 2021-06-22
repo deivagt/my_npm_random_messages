@@ -16,5 +16,9 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deivagt/my_npm_random_messages"
+  },
   "preferGlobal": true
 }
