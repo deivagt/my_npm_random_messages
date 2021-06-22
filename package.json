@@ -1,6 +1,6 @@
 {
   "name": "random-msdblisle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package made for random message generation",
   "main": "\u001b[A\u001b[Bsrc/index.js",
   "scripts": {
