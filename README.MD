@@ -11,7 +11,7 @@ npm install -g random-msdblisle
 # Usage
 
 ```bash
-random-msg
+random-msgdbelisle
 ```
 
 # Contributing
